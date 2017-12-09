@@ -1,0 +1,2 @@
+C:\Users\ranga\Documents\Visual Studio 2017\Projects\UnityAutomaticDependancyResolverPOC\MainApp.Console\bin\Debug\Dep.Y.dll
+C:\Users\ranga\Documents\Visual Studio 2017\Projects\UnityAutomaticDependancyResolverPOC\MainApp.Console\bin\Debug\Dep.Y.pdb
